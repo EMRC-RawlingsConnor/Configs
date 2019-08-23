@@ -1,2 +1,2 @@
 # Configs
-COnfigs
+To manage ArduPilot/Px4 Configuration files
